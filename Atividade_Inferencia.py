@@ -3,7 +3,7 @@
 import math
 import numpy as np
 
-file =r"C:\Users\ashton.segnibo_capim\Desktop\Python\AMOSTRA_3.txt"
+file =r"AMOSTRA_3"
 
 with open(file) as amostra:
     dados = amostra.read().split()
